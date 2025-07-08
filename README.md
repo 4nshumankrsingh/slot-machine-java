@@ -6,6 +6,6 @@ Welcome to the Slot Machine Game, a text-based casino-style game built with Java
 - Place a bet amount
 - Spin the slot machine (3 symbols)
 - Win based on symbol combinations:
- - 🎉 Three matching symbols = Huge payout
- - ✅ Two matching symbols = Small win
- - ❌ No match = Lose your bet
+  - 🎉 Three matching symbols = Huge payout
+  - ✅ Two matching symbols = Small win
+  - ❌ No match = Lose your bet
